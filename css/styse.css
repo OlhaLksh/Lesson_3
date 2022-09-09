@@ -1,0 +1,42 @@
+h4{
+	color: blueviolet;
+}
+a{
+	color: green;
+}
+.rainbow{
+	color: darkgreen;
+}
+.rainbow span{
+	color: blue;
+	font-size: larger;
+}
+.bigred{
+	color: red;
+	font-size: larger;
+}
+.bigred>p{
+	color: darkmagenta;
+}
+.poop,
+.pee,
+.boogger
+{
+	color: darkorange;
+}
+.mozes p{
+	color: darkgrey;
+}
+.rainbow .spy
+{
+	color: rgb(150, 78, 11);
+}
+.text *{
+	color: darkcyan;
+}
+.mozes ~ p{
+	font-size: larger;
+}
+.value +p{
+	color: hotpink;
+}
